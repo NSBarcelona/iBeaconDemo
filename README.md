@@ -1,4 +1,3 @@
-iBeaconDemo
-===========
+# iBeacon Demo
 
-Demo code to use an iOS device as iBeacon made for WIPJam 2014
+This is a demo project showing how to advertise an iOS device using the iBeacon protocol, and see other nearby devices.
